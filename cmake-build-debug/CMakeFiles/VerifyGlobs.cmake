@@ -3,27 +3,27 @@
 cmake_policy(SET CMP0009 NEW)
 
 # CPP_FILES at TP1/CMakeLists.txt:2 (file)
-file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/miguel/Documents/CAL/TP1/*.cpp")
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/miguel/Documents/CAL_GIT/TP1/*.cpp")
 set(OLD_GLOB
-  "/home/miguel/Documents/CAL/TP1/ex1.cpp"
-  "/home/miguel/Documents/CAL/TP1/ex2.cpp"
-  "/home/miguel/Documents/CAL/TP1/ex3.cpp"
-  "/home/miguel/Documents/CAL/TP1/ex4.cpp"
-  "/home/miguel/Documents/CAL/TP1/ex5.cpp"
-  "/home/miguel/Documents/CAL/TP1/ex6.cpp"
-  "/home/miguel/Documents/CAL/TP1/ex7.cpp"
-  "/home/miguel/Documents/CAL/TP1/main.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex1.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex2.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex3.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex4.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex5.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex6.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/ex7.cpp"
+  "/home/miguel/Documents/CAL_GIT/TP1/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "/home/miguel/Documents/CAL/cmake-build-debug/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "/home/miguel/Documents/CAL_GIT/cmake-build-debug/CMakeFiles/cmake.verify_globs")
 endif()
 
 # CPP_FILES at TP1/CMakeLists.txt:2 (file)
-file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/miguel/Documents/CAL/TP1/*/*.cpp")
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/miguel/Documents/CAL_GIT/TP1/*/*.cpp")
 set(OLD_GLOB
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "/home/miguel/Documents/CAL/cmake-build-debug/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "/home/miguel/Documents/CAL_GIT/cmake-build-debug/CMakeFiles/cmake.verify_globs")
 endif()

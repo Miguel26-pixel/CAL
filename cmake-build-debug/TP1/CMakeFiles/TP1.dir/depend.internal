@@ -22,8 +22,8 @@ TP1/CMakeFiles/TP1.dir/ex1.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex1.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex1.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/ex2.cpp.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -45,8 +45,8 @@ TP1/CMakeFiles/TP1.dir/ex2.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex2.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex2.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/ex3.cpp.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -68,8 +68,8 @@ TP1/CMakeFiles/TP1.dir/ex3.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex3.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex3.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/ex4.cpp.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -91,8 +91,8 @@ TP1/CMakeFiles/TP1.dir/ex4.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex4.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex4.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/ex5.cpp.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -114,8 +114,8 @@ TP1/CMakeFiles/TP1.dir/ex5.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex5.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex5.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/ex6.cpp.o
  ../lib/googletest-master/googlemock/include/gmock/gmock-actions.h
  ../lib/googletest-master/googlemock/include/gmock/gmock-cardinalities.h
@@ -152,8 +152,8 @@ TP1/CMakeFiles/TP1.dir/ex6.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex6.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex6.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/ex7.cpp.o
  ../lib/googletest-master/googlemock/include/gmock/gmock-actions.h
  ../lib/googletest-master/googlemock/include/gmock/gmock-cardinalities.h
@@ -190,8 +190,8 @@ TP1/CMakeFiles/TP1.dir/ex7.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/ex7.cpp
- /home/miguel/Documents/CAL/TP1/exercises.h
+ /home/miguel/Documents/CAL_GIT/TP1/ex7.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/exercises.h
 TP1/CMakeFiles/TP1.dir/main.cpp.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -213,4 +213,4 @@ TP1/CMakeFiles/TP1.dir/main.cpp.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/miguel/Documents/CAL/TP1/main.cpp
+ /home/miguel/Documents/CAL_GIT/TP1/main.cpp

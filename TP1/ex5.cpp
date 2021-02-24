@@ -1,24 +1,34 @@
 // By: Gonçalo Leão
 
 #include "exercises.h"
-
-unsigned int sumArray(unsigned int a[], unsigned int n) {
-    unsigned int sum = 0;
-    for(unsigned int i = 0; i < n; i++) {
-        sum += a[i];
-    }
-    return sum;
-}
-
 #include <iostream>
+#include "algorithm"
 
 bool isCanonical(unsigned int C[], unsigned int n) {
-    //TODO...
-
-    return false;
+    if (n < 3) return false;
+    unsigned int Stock[n];
+    int min = C[2]+1;
+    int max = C[n-1]+C[n-2];
+    for (unsigned int T = min+1; T < max;T++)
+    {
+        for (unsigned j = 0; j < n; ++j){
+            Stock[j] = n;
+        }
+        unsigned int usedCoinsG[n];
+        unsigned int usedCoinsBF[n];
+        changeMakingBF(C,Stock,n,T,usedCoinsBF);
+        changeMakingGreedy(C,Stock,n,T,usedCoinsG);
+        unsigned sumBruteForce = 0, sumGreedy = 0;
+        for (unsigned i = 0; i < n; ++i){
+            sumBruteForce += usedCoinsBF[i];
+            sumGreedy += usedCoinsG[i];
+        }
+        if (sumBruteForce != sumGreedy) return false;
+    }
+    return true;
 }
 
-/*
+
 /// TESTS ///
 #include <gtest/gtest.h>
 
@@ -32,5 +42,5 @@ TEST(TP1_Ex5, canonicalTrue) {
 
 TEST(TP1_Ex5, canonicalFalse) {
     unsigned int C[] = {1,4,5};
-    EXPECT_EQ(isCanonical(C,3), true);
-}*/
+    EXPECT_EQ(isCanonical(C,3), false);
+}

@@ -6,5 +6,5 @@ CXX_FLAGS = -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /home/miguel/Documents/CAL/lib/googletest-master/googletest/include -isystem /home/miguel/Documents/CAL/lib/googletest-master/googletest -isystem /home/miguel/Documents/CAL/lib/googletest-master/googlemock/include -isystem /home/miguel/Documents/CAL/lib/googletest-master/googlemock 
+CXX_INCLUDES = -isystem /home/miguel/Documents/CAL_GIT/lib/googletest-master/googletest/include -isystem /home/miguel/Documents/CAL_GIT/lib/googletest-master/googletest -isystem /home/miguel/Documents/CAL_GIT/lib/googletest-master/googlemock/include -isystem /home/miguel/Documents/CAL_GIT/lib/googletest-master/googlemock 
 

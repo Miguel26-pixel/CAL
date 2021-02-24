@@ -1,4 +1,4 @@
-/snap/clion/139/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/miguel/Documents/CAL
+/snap/clion/139/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/miguel/Documents/CAL_GIT
 -- The C compiler identification is GNU 10.2.0
 -- The CXX compiler identification is GNU 10.2.0
 -- Check for working C compiler: /usr/bin/cc
@@ -25,4 +25,4 @@
 -- Found Threads: TRUE  
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/miguel/Documents/CAL/cmake-build-debug
+-- Build files have been written to: /home/miguel/Documents/CAL_GIT/cmake-build-debug

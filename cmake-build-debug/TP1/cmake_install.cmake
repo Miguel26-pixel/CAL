@@ -1,4 +1,4 @@
-# Install script for directory: /home/miguel/Documents/CAL/TP1
+# Install script for directory: /home/miguel/Documents/CAL_GIT/TP1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

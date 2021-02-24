@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTH
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/miguel/Documents/CAL/lib/googletest-master/googletest/include -I/home/miguel/Documents/CAL/lib/googletest-master/googletest 
+CXX_INCLUDES = -I/home/miguel/Documents/CAL_GIT/lib/googletest-master/googletest/include -I/home/miguel/Documents/CAL_GIT/lib/googletest-master/googletest 
 
